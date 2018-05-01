@@ -29,6 +29,27 @@ One downfall of my design process so far is that in using this method, we tended
 
 Lastly, this step is critical. It is the point of no return (unless you're designing for fun or for a boss that really has no idea what a deadline is). Past this point in the design process, I am set on what I want to accomplish and how I am going to go about doing it.
 
+### Final Production
+
+The biggest challenge of doing anything is, by definition, doing it. After all the buildup, the only thing left to do is build the product.
+
+<img src="images/3.png"/>
+
+> A screenshot of a VR website that takes a user around the world
+
+<img src="images/4.png"/>
+
+> A mockup of a redesign for Worcester Public Library, focused on parents
+
+The final product is what gets delivered to the user. Users then can be unhappy, happy, ambivalent, etc. Because of this, two things are important to follow preceding actually finishing and delivering your finished project.
+
+### 1. User Testing
+
+If the user wants this product bad enough, and you care about it enough, then you'll absolutely want to do some user testing. 
+
+The user never knows what to change to make it better, but they always know what's wrong. Keeping this in mind, listen to feedback from users. They might suggest changes or complain about that bug you totally thought you fixed, but everything they say might be useful. If, for example, a user says "This should be green, not blue", maybe green isn't the color you should choose, but the fact that the user doesen't like what you have in terms of color means that you color scheme needs work. 
+
+That is, of course, a simplified version of user testing; in reality, problems are much more complex and require more time and effort to fix, but that's why you're designing in the first place: to fix a problem or add some sort of funtionality to someone's life.
 
 
 ```markdown
