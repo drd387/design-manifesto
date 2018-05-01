@@ -13,6 +13,14 @@ Here is a great example of a brainstorming board that one of my groups put toget
 
 <img src="images/1.png"/>
 
+It's easy to see that there's pretty basic ideas among fairly complex ideas, useless drawing, and snippets of text in there, but that brainstorming paper was probably the most helpful one that I have had during this class.
+
+### Refining
+
+Ideas are just that - ideas. Without refining these ideas, all that's there is what you'd _want_ there to be. Once brainstorming is done with, it's time to choose that one idea that you'll eventually develop into the final product. This idea doesn't have to be one concrete idea from brainstorming; it can be a mixture of good ones, or even something totally new that you've come up with after learning from really terrible ideas that you forced yourself to come up with. Either way, the goal is to have something that you decide you will definitely be working on. 
+
+
+
 ```markdown
 Syntax highlighted code block
 
