@@ -58,3 +58,15 @@ That is, of course, a simplified version of user testing; in reality, problems a
 ### 2. Taking Feedback
 
 Ultimately, your vision of a product is probably not the same as a user's vision of the same product. Because of this, it's the designer's role to take both visions and compromise. Take good ideas from both, meld them together, and finally try to satisfy the user as well as yourself.
+
+A useful tool for feedback is Stanford University's "I like, I wish, What if..." method. Though it sounds pretty passive-aggressive, (and absolutely can be) used correctly, it can be a very powerful tool. During the course of this class everyone used it at least 7 or 8 times to deliver feedback to other classmate's projects. 
+
+Essentially, a user testing a project should give one good thing they liked about the product (I like), one thing they didn't like (I wish), and one thing they might change (What if). Using this information, a designer can more easily determine the faults in their product, and what they might want to change.
+
+<img src="images/7.png"/>
+
+>An initial form of one project, with a glaringly bad color scheme
+
+<img src="images/6.png"/>
+
+>Taking into account user feedback, a better color scheme with less distracting text
