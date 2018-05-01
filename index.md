@@ -70,3 +70,15 @@ Essentially, a user testing a project should give one good thing they liked abou
 <img src="images/6.png"/>
 
 >Taking into account user feedback, a better color scheme with less distracting text
+
+### My Own Projects
+
+Finally, here are some of my own projects that I have worked on, and written about with my time in this class.
+
+[Travel-the-World](https://medium.com/design-for-another-worldgroup-3/design-for-another-world-c2c25441c15e), a VR website made to give users an experience they may rarely, if ever, get to see.
+
+[Design for Others](https://medium.com/@dannyd40/design-doc-for-design-for-others-ea7917c54677), a redesign of the Worcester Public Library's website, focused on parents of children aged 3-10.
+
+[Jarvis, the Chatbot](https://medium.com/@justinkreiselman/design-for-tension-13bd6d196512), a chatbot meant to provide a user with opposing arguments and ideas regarding artifical intelligence.
+
+[Try Not to Laugh](https://medium.com/@robertharrison43/design-for-well-being-c6e36c045b03), a website that reads your emotions, and can tell when you've lost the "Try Not to Laugh" challenge.
