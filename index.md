@@ -5,11 +5,9 @@ Anyone can watch a YouTube video or do a Google search about the design process,
 
 This site is to show my own personal design process, and with it examples of when it has worked, failed, or helped me improve.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Brainstorming
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Brainstorming is a pretty simple concept - have an idea of what you want to accomplish, and generate ideas that would make that possible. Generally, it's easiest to think of as many ideas as possible, so as to be able to rule out and learn from bad ones so that eventually you'll find a good one.
 
 ```markdown
 Syntax highlighted code block
