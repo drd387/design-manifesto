@@ -17,7 +17,17 @@ It's easy to see that there's pretty basic ideas among fairly complex ideas, use
 
 ### Refining
 
-Ideas are just that - ideas. Without refining these ideas, all that's there is what you'd _want_ there to be. Once brainstorming is done with, it's time to choose that one idea that you'll eventually develop into the final product. This idea doesn't have to be one concrete idea from brainstorming; it can be a mixture of good ones, or even something totally new that you've come up with after learning from really terrible ideas that you forced yourself to come up with. Either way, the goal is to have something that you decide you will definitely be working on. 
+Ideas are just that - ideas. Without refining these ideas, all that's there is what you'd _want_ there to be. 
+
+Once brainstorming is done with, it's time to choose that one idea that you'll eventually develop into the final product. This idea doesn't have to be one concrete idea from brainstorming; it can be a mixture of good ones, or even something totally new that you've come up with after learning from really terrible ideas that you forced yourself to come up with. Either way, the goal is to have something that you decide you will definitely be working on. 
+
+Below is a ridiculously complex flow chart for a chatbot that talks to the user about whether or not artificial intelligence is going to take over the world. The idea with this chart is that as a group, we decided on a topic, thought about how we were going to go about delivering to the user, and ultimately developed a flowchart for a bot that we had yet to build.
+
+<img src="images/2.png"/>
+
+One downfall of my design process so far is that in using this method, we tended towards groupthink, and stopped producing new ideas. We were set into the production of this chart so much so that it was almost not worth it to then say something like "Hey, maybe we should add _this_ topic in". Overall, I'd say that project was a great success, users liked the light-heartedness of the bot, and its playing of the devil's advocate, but it was not without its failings. 
+
+Lastly, this step is critical. It is the point of no return (unless you're designing for fun or for a boss that really has no idea what a deadline is). Past this point in the design process, I am set on what I want to accomplish and how I am going to go about doing it.
 
 
 
