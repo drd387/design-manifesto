@@ -1,4 +1,4 @@
-## Design Manifesto
+## My Personal Design Process
 By Dan DiIorio
 
 Anyone can watch a YouTube video or do a Google search about the design process, and see what long-time professionals have to say about design. But the design process is not that simple. It is personalized, ever-changing, and weird. How any one person goes about designing something for anything is different from the next person.
