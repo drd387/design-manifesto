@@ -1,7 +1,9 @@
 ## Design Manifesto
 By Dan DiIorio
 
-You can use the [editor on GitHub](https://github.com/drd387/design-manifesto/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Anyone can watch a YouTube video or do a Google search about the design process, and see what long-time professionals have to say about design. But the design process is not that simple. It is personalized, ever-changing, and weird. How any one person goes about designing something for anything is different from the next person.
+
+This site is to show my own personal design process, and with it examples of when it has worked, failed, or helped me improve.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
