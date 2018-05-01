@@ -51,31 +51,7 @@ The user never knows what to change to make it better, but they always know what
 
 That is, of course, a simplified version of user testing; in reality, problems are much more complex and require more time and effort to fix, but that's why you're designing in the first place: to fix a problem or add some sort of funtionality to someone's life.
 
+<img src="images/5.png"/>
 
-```markdown
-Syntax highlighted code block
+>A user testing our "Travel the World" project, probably unhappy about loading times
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/drd387/design-manifesto/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
