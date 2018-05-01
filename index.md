@@ -41,13 +41,13 @@ The biggest challenge of doing anything is, by definition, doing it. After all t
 
 > A mockup of a redesign for Worcester Public Library, focused on parents
 
-The final product is what gets delivered to the user. Users then can be unhappy, happy, ambivalent, etc. Because of this, two things are important to follow preceding actually finishing and delivering your finished project.
+The final product is what gets delivered to the user. Users then can be unhappy, happy, ambivalent, etc. Because of this, two things are important to follow preceding actually finishing and delivering your finished project. These are user testing and taking feedback.
 
 ### 1. User Testing
 
 If the user wants this product bad enough, and you care about it enough, then you'll absolutely want to do some user testing. 
 
-The user never knows what to change to make it better, but they always know what's wrong. Keeping this in mind, listen to feedback from users. They might suggest changes or complain about that bug you totally thought you fixed, but everything they say might be useful. If, for example, a user says "This should be green, not blue", maybe green isn't the color you should choose, but the fact that the user doesen't like what you have in terms of color means that you color scheme needs work. 
+The user never knows what to change to make it better, but they always know what's wrong. Keeping this in mind, listen to feedback from users. They might suggest changes or complain about that bug you totally thought you fixed, but everything they say might be useful. If, for example, a user says "This should be green, not blue", maybe green isn't the color you should choose, but the fact that the user doesen't like what you have in terms of color means that your color scheme needs work. 
 
 That is, of course, a simplified version of user testing; in reality, problems are much more complex and require more time and effort to fix, but that's why you're designing in the first place: to fix a problem or add some sort of funtionality to someone's life.
 
@@ -55,3 +55,6 @@ That is, of course, a simplified version of user testing; in reality, problems a
 
 >A user testing our "Travel the World" project, probably unhappy about loading times
 
+### 2. Taking Feedback
+
+Ultimately, your vision of a product is probably not the same as a user's vision of the same product. Because of this, it's the designer's role to take both visions and compromise. Take good ideas from both, meld them together, and finally try to satisfy the user as well as yourself.
