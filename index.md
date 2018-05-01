@@ -9,6 +9,10 @@ This site is to show my own personal design process, and with it examples of whe
 
 Brainstorming is a pretty simple concept - have an idea of what you want to accomplish, and generate ideas that would make that possible. Generally, it's easiest to think of as many ideas as possible, so as to be able to rule out and learn from bad ones so that eventually you'll find a good one.
 
+Here is a great example of a brainstorming board that one of my groups put together. I chose this one because it shows how it doesn't have to be formal and not everything has to be useful, but as long as ideas are getting put onto paper then the brainstorming has been successful.
+
+<img src="images/1.png"/>
+
 ```markdown
 Syntax highlighted code block
 
